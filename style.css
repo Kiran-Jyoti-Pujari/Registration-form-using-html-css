@@ -1,0 +1,62 @@
+button{
+    padding:1em 2em;
+    border:2px blue solid;
+    border-radius: 40px;
+    color:black;
+    font-size:medium;
+    background-color:rgb(100, 164, 237)
+}
+button:hover{
+    border-color:steelblue;
+    color:midnightblue;
+    cursor:pointer;
+}
+*{
+    margin:4px;
+    background-color:lightskyblue;
+}
+body{
+    font-size: 25px;
+    font-style:initial;
+    margin:8px 2px;
+}
+h2{
+    font-size: 30px;
+}
+div{
+    font-size: 15px;;
+}
+#Firstname{
+    margin:12px 1px;
+    padding:4px 4px;
+}
+#Lastname{
+    margin:12px 1px;
+     padding:4px 4px;
+}
+#Course{
+    margin:12px 1px;
+     padding:4px 12px;
+}
+#Gender{
+    margin:12px 1px;
+}
+#PhoneNumber{
+    margin:15px;
+     padding:4px 4px;
+}
+#Email{
+    margin:12px;
+     padding:4px 4px;
+}
+#Password{
+    margin:12px;
+     padding:4px 4px;
+}
+#Address{
+    margin:12px;
+    padding:6px 60px;
+}
+.tag{
+    border:2px solid black;
+}
